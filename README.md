@@ -12,7 +12,6 @@ This project demonstrates how to use Long Short-Term Memory (LSTM) neural networ
 - [Model Overview](#model-overview)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Predicting stock prices is a challenging task due to the inherent complexity and volatility of the financial markets. LSTM networks are especially suited for time series prediction tasks such as stock price forecasting, thanks to their ability to remember long-term dependencies. This project trains an LSTM model to predict stock prices.
